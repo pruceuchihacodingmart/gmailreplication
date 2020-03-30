@@ -1,0 +1,30 @@
+.Mainsectorcss{
+ border-radius: 5%;
+ border: dashed;
+ border: 220px;
+ border-color: blue;
+ background-color: cornsilk;
+  margin: 0% 0% 1% 0%; 
+  display: flex; 
+  width: 100%;    
+
+}
+
+.textcss{
+    width: 90%;
+
+
+}
+
+.btnclass{
+    width: 50%;
+    align-items: center;
+}
+
+.bnone{
+    display: none;
+}
+
+.m-none{
+    display: none;
+}

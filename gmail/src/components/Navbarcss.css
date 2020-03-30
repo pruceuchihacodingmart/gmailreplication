@@ -1,0 +1,40 @@
+.navbardivcss{
+    display: flex;
+}
+
+.mail{
+    margin: .85vh 1.7vh 0vh 2.55vh ;
+    width: 6.8vh;
+    height: 6.8vh;
+}
+.burger{
+    margin: .85vh 1.7vh 0vh 2.55vh ;
+    width: 3.8vh;
+    height: 3.8vh;
+
+}
+.gmailtext p{
+    margin: 2.55vh 17vh 0vh 1.7px ;
+    font-weight: 500;
+    font-size: large;
+
+}
+
+.search-field {
+    border-radius: 3.4vh !important;
+    border-color: transparent !important;
+    width: 119.04vh;
+    opacity: .8;
+    -webkit-box-shadow: 0vh .7vh .7vh 0vh rgba(0,0,0,0.2) !important;
+    -moz-box-shadow: 0vh .7vh .7vh 0vh rgba(0,0,0,0.2) !important;
+    box-shadow: 0vh .7vh .7vh 0vhx rgba(0,0,0,0.2) !important;
+  }
+  
+  .search-btn {
+    border-radius: 20px !important;
+    border-top-right-radius: 3px !important;
+    border-bottom-right-radius: 3px !important;
+    width: 4.8em;
+    color: grey;
+  }
+  
