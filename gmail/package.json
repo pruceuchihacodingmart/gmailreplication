@@ -9,7 +9,7 @@
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.4.1",
-    "contentful": "^7.11.4",
+    "contentful": "^11.8.1",
     "framework7": "^5.3.0",
     "framework7-react": "^5.3.0",
     "react": "^16.12.0",
